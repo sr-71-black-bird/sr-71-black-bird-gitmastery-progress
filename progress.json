@@ -34,5 +34,14 @@
       "Great work! You have successfully fixed the attendance system!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768985078.225098,
+    "completed_at": 1768985083.693982,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
   }
 ]
