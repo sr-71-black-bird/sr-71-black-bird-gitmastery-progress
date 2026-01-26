@@ -250,24 +250,5 @@
       "Great work traversing the revision history!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1769430003.188004,
-    "completed_at": 1769430006.742254,
-    "comments": [
-      "It seems like the commit from Jan 12 is still present in the commit history."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "sensors-reset",
-    "started_at": 1769430067.589656,
-    "completed_at": 1769430071.114363,
-    "comments": [
-      "Unexpected files in working directory. Looks like you used the wrong reset mode.",
-      "Unexpected files in staging area. Looks like you used the wrong reset mode."
-    ],
-    "status": "Incomplete"
   }
 ]
